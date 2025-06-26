@@ -2,7 +2,13 @@ Rev. Fr. Moses Orshio Adasu University Consultancy website. It is a simple stati
 
 Features: built entirely with semantic HTML and CSS (no javascript frame work use.)
 
-Project Structure: |index.HTML #Main homepage \|style.css #External stylesheet \|images/#folder for image asset \|README.md #Project documentation.
+Project Structure:
+|index.HTML #Main homepage
+assets
+|
+  /|css/style.css #External stylesheet
+  /|images/#folder for image asset
+  /|README.md #Project documentation.
 
 Bash copy and edit git clone https://github.com/adina-9ice/Consultancy-web.git
 bash copy and edit open index.html file directly in your web browser
